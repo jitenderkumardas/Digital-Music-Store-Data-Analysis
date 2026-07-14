@@ -9,7 +9,7 @@ This project performs an in-depth data analysis of a digital music store's datab
 ```text
 ├── README.md                 <-- Main project homepage with business insights
 ├── data/
-│   ├── music_store.db        <-- SQLite/PostgreSQL database source file
+│   ├── music_store.sql        <-- SQLite/PostgreSQL database source file (restore it)
 │   └── schema_diagram.png    <-- Entity Relationship Diagram (ERD)
 ├── sql_queries/
 │   ├── 01_easy_queries.sql   <-- Basic aggregations and structural sorting
